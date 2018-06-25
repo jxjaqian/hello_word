@@ -1,2 +1,2 @@
 # hello_word
-just so so 
+This is just a simple project.
